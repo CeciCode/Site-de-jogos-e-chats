@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+    font-family: 'Are You Serious', cursive;
+font-family: 'Smooch Sans', sans-serif;
+}
+.line {
+    height: 6px;
+    width: 300px;
+    background-color: plum;
+    margin: 8px auto;
+}
+#Jogos {
+    background-color: aqua;
+}
+#jogos1 {
+    background-color: aquamarine;
+}
+#chatbot {
+    background-color: pink;
+}
+#jogos1 img {
+    height: 300px;
+    margin-top: 35px;
+}
